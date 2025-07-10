@@ -1,4 +1,3 @@
-
 const API_KEY = import.meta.env.VITE_WEATHER_API_KEY;
 const weatherInfo = document.getElementById('weather-info');
 const errorMessage = document.getElementById('error-message');
