@@ -61,9 +61,3 @@ Weather-App/
 ## 🤝 Contributing
 
 Feel free to modify or improve this project! If you have suggestions, open an issue or create a pull request.
-
-## 🎯 Final Thoughts
-
-This weather app is a simple but powerful example of working with APIs in JavaScript. It's a great starting point for beginners and can be expanded further with more weather details, a better UI, or even a forecast feature!
-
-Happy coding! 🚀🌤️
